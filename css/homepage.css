@@ -1,0 +1,18 @@
+/* HEADER */
+
+header {
+    background: url("../img/header.jpg") no-repeat center / cover;
+    color: white;
+}
+
+#welcome {
+    height: 50vh;
+}
+
+/* @media screen and (max-width: 1000px) {
+    height: ;
+} */
+
+#section-title {
+    font-family: 'Oswald', sans-serif;
+}
